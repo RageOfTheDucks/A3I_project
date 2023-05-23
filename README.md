@@ -4,6 +4,6 @@ Enrico Benedetti, Stefano Fantazzini, Luca Levita
 
     {enrico.benedetti5, stefano.fantazzini, luca.levita}@studio.unibo.it
 
-Yeah, twitch predictions. 
+Twitch data forecasting. 
 
 The project consists of the `ai_industry.ipynb` Python notebook.
